@@ -86,4 +86,6 @@ Enjoy~ <3
 
 ## Thanks To
 * [`indrijunanda`](https://github.com/indrijunanda/RuangAdmin)
+* [`AmmarBN`](https://github.com/Lord-Ammar/Api-LordBotz)
 * Anu-Team
+* Executed-Team
